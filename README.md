@@ -11,4 +11,4 @@
 - Bootstrap
 - Flask
 ## Live Link
-- 
+- https://abasshussein.github.io/CNNNews-app/
