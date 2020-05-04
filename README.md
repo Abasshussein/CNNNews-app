@@ -14,7 +14,7 @@
 - https://abasshussein.github.io/CNNNews-app/
 ## Contacts Info
 - Tel:+254736623078 
-- Email:abasshussein03@gmail.com
+- Email:abasshussein03@gmail.com 
 - Github:Abasshussein
 ## License
 - MIT License
