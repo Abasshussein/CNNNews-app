@@ -9,3 +9,4 @@
 ## Technologies Used
 - Python3.6
 - Bootstrap
+- Flask
