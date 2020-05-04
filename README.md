@@ -10,5 +10,7 @@
 - Python3.6
 - Bootstrap
 - Flask
+## License
+- 
 ## Live Link
 - https://abasshussein.github.io/CNNNews-app/
